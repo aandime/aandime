@@ -19,5 +19,4 @@ I’m a CS undergrad at UNC-Chapel Hill and an incoming master student of Cornel
 
 ## How to reach me:
 
-[![LinkedIn](https://www.linkedin.com/in/andy-dong1) 
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:andyd4808@gmail.com)
+[![LinkedIn](https://www.linkedin.com/in/andy-dong1) [![Gmail](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:andyd4808@gmail.com)
