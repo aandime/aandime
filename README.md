@@ -1,4 +1,4 @@
-# Hi! Welcome to my Github Page! 🤩
+# Hi! Welcome to my Github Page! 
 
 Thank you for visiting my GitHub profile. I'm honored to have you here!
 
