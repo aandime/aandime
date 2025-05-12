@@ -1,6 +1,6 @@
 # Hi! Welcome to my Github Page! 
 
-Thank you for visiting my GitHub profile. I'm honored to have you here!
+Thank you for visiting my GitHub profile. Im super excited that you are interested in learning more about what I do!
 
 ## About me:
 
